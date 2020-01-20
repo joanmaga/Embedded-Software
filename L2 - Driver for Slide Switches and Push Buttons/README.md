@@ -18,7 +18,7 @@
 
 ![Schematic](zyboswitchbuttonschematic.png "Schematic")
 
-## Goals
+## Goals (Videos)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=QYQlwwn_CJs
 " target="_blank"><img src="http://img.youtube.com/vi/QYQlwwn_CJs/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>

@@ -1,4 +1,4 @@
-# Lab 2: Writing Driver Software for the Slide Switches and Push Buttons
+# Lab 5: Unbeatable Tic Tac Toe
 
 ## Overview
 * **Algorithm**. You will write the software that makes it impossible to beat the computer.
@@ -21,4 +21,4 @@
 ## Goal (Video)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=b_2iwT8TDYc
 " target="_blank"><img src="http://img.youtube.com/vi/b_2iwT8TDYc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>

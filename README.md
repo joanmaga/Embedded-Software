@@ -1,38 +1,20 @@
-{{  ::new330board.jpg?600}}
+# Embedded Systems Class
 
-[[Goals]]
+## Goals
 
-[[Labs]]
+* Acquire deep knowledge of the C programming language.
+* Learn simple software engineering techniques.
+* Practice writing code that meets a coding standard.
+* Practice implementing different implementation styles.
+* Learn how to reactive code (the basis for embedded systems).
 
-[[K & R Reading Study Questions]]
+Become capable of independently writing embedded software for your own creation!
 
-[[Documentation]]
-
-[[Coding Standards]]
-
-[[Coding and Debugging State Machines]]
-
-[[Grading Source Code]]
-
-[[Submitting Source Code]]
-
-[[Lab Policies]]
-
-[[General Suggestions]]
-
-[[ Digital Lab Hours - 423 EB]]
-
-[[Late Bank]]
-
-[[Tutorials]]
-
-[[Purchasing a Development Board]]
-
-[[ECEN 330 Vivado HW System for ZYBO]]
-
-[[ECEN330_Student_SW_Env Updates]]
-
-[[FAQ]]
-
-[[Instructor]]
-
+## Projects
+1. helloWorld on ZYBO Board
+2. Driver for Slide Switches and Push Buttons
+3. Interval Timers
+4. Clock
+5. **Unbeatable Tic Tac Toe**
+6. Simon Game
+7. Whack A Mole

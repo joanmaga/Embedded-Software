@@ -12,6 +12,8 @@
 
 ## Goals
 * Print "hello world" on the Zybo Board
+
 ![hello](lab1helloworldphoto.jpg "hello")
 * Read the graphics documentation and then modify the “helloWorld.c” program so that it shows the following when executed (both triangles are yellow)
+
 ![Graphics](lab1photo2.jpg "Graphics")

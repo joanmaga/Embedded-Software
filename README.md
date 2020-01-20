@@ -1,4 +1,5 @@
 # Embedded Systems Class
+![ZYBO Board](new330board.jpg "Zybo Board")
 
 ## Goals
 

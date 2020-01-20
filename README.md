@@ -11,8 +11,8 @@
 Become capable of independently writing embedded software for your own creation!
 
 ## Projects
-1. helloWorld on ZYBO Board
-2. Driver for Slide Switches and Push Buttons
+1. **helloWorld on ZYBO Board**
+2. **Driver for Slide Switches and Push Buttons**
 3. Interval Timers
 4. Clock
 5. **Unbeatable Tic Tac Toe**
